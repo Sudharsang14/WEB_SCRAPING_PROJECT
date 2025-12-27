@@ -1,0 +1,75 @@
+,Match,Date,Fixture,Venue,Time (IST),Day
+0,1,"March 22, 2025",Kolkata Knight Riders vs Royal Challengers Bengaluru,Kolkata,7:30 PM,Saturday
+1,2,"March 23, 2025",Sunrisers Hyderabad vs Rajasthan Royals,Hyderabad,3:30 PM,Sunday
+2,3,"March 23, 2025",Chennai Super Kings vs Mumbai Indians,Chennai,7:30 PM,Sunday
+3,4,"March 24, 2025",Delhi Capitals vs Lucknow Super Giants,Visakhapatnam,7:30 PM,Monday
+4,5,"March 25, 2025",Gujarat Titans vs Punjab Kings,Ahmedabad,7:30 PM,Tuesday
+5,6,"March 26, 2025",Rajasthan Royals vs Kolkata Knight Riders,Guwahati,7:30 PM,Wednesday
+6,7,"March 27, 2025",Sunrisers Hyderabad vs Lucknow Super Giants,Hyderabad,7:30 PM,Thursday
+7,8,"March 28, 2025",Chennai Super Kings vs Royal Challengers Bengaluru,Chennai,7:30 PM,Friday
+8,9,"March 29, 2025",Gujarat Titans vs Mumbai Indians,Ahmedabad,7:30 PM,Saturday
+9,10,"March 30, 2025",Delhi Capitals vs Sunrisers Hyderabad,Visakhapatnam,3:30 PM,Sunday
+10,11,"March 30, 2025",Rajasthan Royals vs Chennai Super Kings,Guwahati,7:30 PM,Sunday
+11,12,"March 31, 2025",Mumbai Indians vs Kolkata Knight Riders,Mumbai,7:30 PM,Monday
+12,13,"April 1, 2025",Lucknow Super Giants vs Punjab Kings,Lucknow,7:30 PM,Tuesday
+13,14,"April 2, 2025",Royal Challengers Bengaluru vs Gujarat Titans,Bengaluru,7:30 PM,Wednesday
+14,15,"April 3, 2025",Kolkata Knight Riders vs Sunrisers Hyderabad,Kolkata,7:30 PM,Thursday
+15,16,"April 4, 2025",Lucknow Super Giants vs Mumbai Indians,Lucknow,7:30 PM,Friday
+16,17,"April 5, 2025",Chennai Super Kings vs Delhi Capitals,Chennai,3:30 PM,Saturday
+17,18,"April 5, 2025",Punjab Kings vs Rajasthan Royals,New Chandigarh,7:30 PM,Saturday
+18,19,"April 6, 2025",Kolkata Knight Riders vs Lucknow Super Giants,Kolkata,3:30 PM,Sunday
+19,20,"April 6, 2025",Sunrisers Hyderabad vs Gujarat Titans,Hyderabad,7:30 PM,Sunday
+20,21,"April 7, 2025",Mumbai Indians vs Royal Challengers Bengaluru,Mumbai,7:30 PM,Monday
+21,22,"April 8, 2025",Punjab Kings vs Chennai Super Kings,New Chandigarh,7:30 PM,Tuesday
+22,23,"April 9, 2025",Gujarat Titans vs Rajasthan Royals,Ahmedabad,7:30 PM,Wednesday
+23,24,"April 10, 2025",Royal Challengers Bengaluru vs Delhi Capitals,Bengaluru,7:30 PM,Thursday
+24,25,"April 11, 2025",Chennai Super Kings vs Kolkata Knight Riders,Chennai,7:30 PM,Friday
+25,26,"April 12, 2025",Lucknow Super Giants vs Gujarat Titans,Lucknow,3:30 PM,Saturday
+26,27,"April 12, 2025",Sunrisers Hyderabad vs Punjab Kings,Hyderabad,7:30 PM,Saturday
+27,28,"April 13, 2025",Rajasthan Royals vs Royal Challengers Bengaluru,Jaipur,3:30 PM,Sunday
+28,29,"April 13, 2025",Delhi Capitals vs Mumbai Indians,Delhi,7:30 PM,Sunday
+29,30,"April 14, 2025",Lucknow Super Giants vs Chennai Super Kings,Lucknow,7:30 PM,Monday
+30,31,"April 15, 2025",Punjab Kings vs Kolkata Knight Riders,New Chandigarh,7:30 PM,Tuesday
+31,32,"April 16, 2025",Delhi Capitals vs Rajasthan Royals,Delhi,7:30 PM,Wednesday
+32,33,"April 17, 2025",Mumbai Indians vs Sunrisers Hyderabad,Mumbai,7:30 PM,Thursday
+33,34,"April 18, 2025",Royal Challengers Bengaluru vs Punjab Kings,Bengaluru,7:30 PM,Friday
+34,35,"April 19, 2025",Gujarat Titans vs Delhi Capitals,Ahmedabad,3:30 PM,Saturday
+35,36,"April 19, 2025",Rajasthan Royals vs Lucknow Super Giants,Jaipur,7:30 PM,Saturday
+36,37,"April 20, 2025",Punjab Kings vs Royal Challengers Bengaluru,New Chandigarh,3:30 PM,Sunday
+37,38,"April 20, 2025",Mumbai Indians vs Chennai Super Kings,Mumbai,7:30 PM,Sunday
+38,39,"April 21, 2025",Kolkata Knight Riders vs Gujarat Titans,Kolkata,7:30 PM,Monday
+39,40,"April 22, 2025",Lucknow Super Giants vs Delhi Capitals,Lucknow,7:30 PM,Tuesday
+40,41,"April 23, 2025",Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,7:30 PM,Wednesday
+41,42,"April 24, 2025",Royal Challengers Bengaluru vs Rajasthan Royals,Bengaluru,7:30 PM,Thursday
+42,43,"April 25, 2025",Chennai Super Kings vs Sunrisers Hyderabad,Chennai,7:30 PM,Friday
+43,44,"April 26, 2025",Kolkata Knight Riders vs Punjab Kings,Kolkata,7:30 PM,Saturday
+44,45,"April 27, 2025",Mumbai Indians vs Lucknow Super Giants,Mumbai,3:30 PM,Sunday
+45,46,"April 27, 2025",Delhi Capitals vs Royal Challengers Bengaluru,Delhi,7:30 PM,Sunday
+46,47,"April 28, 2025",Rajasthan Royals vs Gujarat Titans,Jaipur,7:30 PM,Monday
+47,48,"April 29, 2025",Delhi Capitals vs Kolkata Knight Riders,Delhi,7:30 PM,Tuesday
+48,49,"April 30, 2025",Chennai Super Kings vs Punjab Kings,Chennai,7:30 PM,Wednesday
+49,50,"May 1, 2025",Rajasthan Royals vs Mumbai Indians,Jaipur,7:30 PM,Thursday
+50,51,"May 2, 2025",Gujarat Titans vs Sunrisers Hyderabad,Ahmedabad,7:30 PM,Friday
+51,52,"May 3, 2025",Royal Challengers Bengaluru vs Chennai Super Kings,Bengaluru,7:30 PM,Saturday
+52,53,"May 4, 2025",Kolkata Knight Riders vs Rajasthan Royals,Kolkata,3:30 PM,Sunday
+53,54,"May 4, 2025",Punjab Kings vs Lucknow Super Giants,Dharamsala,7:30 PM,Sunday
+54,55,"May 5, 2025",Sunrisers Hyderabad vs Delhi Capitals,Hyderabad,7:30 PM,Monday
+55,56,"May 6, 2025",Mumbai Indians vs Gujarat Titans,Mumbai,7:30 PM,Tuesday
+56,57,"May 7, 2025",Kolkata Knight Riders vs Chennai Super Kings,Kolkata,7:30 PM,Wednesday
+57,58,"May 8, 2025",Punjab Kings vs Delhi Capitals,Dharamsala,7:30 PM,Thursday
+58,59,"May 9, 2025",Lucknow Super Giants vs Royal Challengers Bengaluru,Lucknow,7:30 PM,Friday
+59,60,"May 10, 2025",Sunrisers Hyderabad vs Kolkata Knight Riders,Hyderabad,7:30 PM,Saturday
+60,61,"May 11, 2025",Punjab Kings vs Mumbai Indians,Dharamsala,3:30 PM,Sunday
+61,62,"May 11, 2025",Delhi Capitals vs Gujarat Titans,Delhi,7:30 PM,Sunday
+62,63,"May 12, 2025",Chennai Super Kings vs Rajasthan Royals,Chennai,7:30 PM,Monday
+63,64,"May 13, 2025",Royal Challengers Bengaluru vs Sunrisers Hyderabad,Bengaluru,7:30 PM,Tuesday
+64,65,"May 14, 2025",Gujarat Titans vs Lucknow Super Giants,Ahmedabad,7:30 PM,Wednesday
+65,66,"May 15, 2025",Mumbai Indians vs Delhi Capitals,Mumbai,7:30 PM,Thursday
+66,67,"May 16, 2025",Rajasthan Royals vs Punjab Kings,Jaipur,7:30 PM,Friday
+67,68,"May 17, 2025",Royal Challengers Bengaluru vs Kolkata Knight Riders,Bengaluru,7:30 PM,Saturday
+68,69,"May 18, 2025",Gujarat Titans vs Chennai Super Kings,Ahmedabad,3:30 PM,Sunday
+69,70,"May 18, 2025",Lucknow Super Giants vs Sunrisers Hyderabad,Lucknow,7:30 PM,Sunday
+70,71,"May 20, 2025",Qualifier 1,Hyderabad,7:30 PM,Tuesday
+71,72,"May 21, 2025",Eliminator,Hyderabad,7:30 PM,Wednesday
+72,73,"May 23, 2025",Qualifier 2,Kolkata,7:30 PM,Friday
+73,74,"May 25, 2025",Final,Kolkata,7:30 PM,Sunday
