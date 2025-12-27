@@ -13,8 +13,10 @@ The project demonstrates how to extract data from websites, process it, and stor
 
 ## 🛠️ Technologies Used
 
-- Python 3.x  
+- Python 
 - Jupyter Notebook  
 - BeautifulSoup (bs4)  
 - Requests  
-- Pandas  
+- Pandas
+
+# OUTPUT
