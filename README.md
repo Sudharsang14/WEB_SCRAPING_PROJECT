@@ -20,6 +20,8 @@ The project demonstrates how to extract data from websites, process it, and stor
 - Pandas
 
 # OUTPUT
-
+**TABLE-1:**
 <img width="743" height="365" alt="Image" src="https://github.com/user-attachments/assets/97e5cc61-fcd8-40b9-a7dd-227ccaf40b02" />
+
+**TABLE-2:**
 <img width="1199" height="544" alt="Image" src="https://github.com/user-attachments/assets/d7d89a49-48c6-436b-8f96-3897077cbd2e" />
